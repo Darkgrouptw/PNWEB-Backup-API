@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ccc: 1
+  ddd: MyString
+
+two:
+  ccc: 1
+  ddd: MyString
